@@ -2,4 +2,5 @@ ignore/
 *.jpeg
 *.png
 *.jpg
-/bin
+bin/
+images/
